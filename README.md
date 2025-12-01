@@ -21,4 +21,4 @@ A simple weather application that shows current weather information for any city
 1. Clone this repository:
 =======
 <img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/ca9c4bfc-5fa2-407f-b243-1c3930238ece" />
->>>>>>> f716ce8a63186098430e55b6353028dd9dc4bf8a
+>>>>>>> 
